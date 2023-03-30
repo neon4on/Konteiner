@@ -1,0 +1,7 @@
+C:\Users\stydent\Каменских Валерий\Контейнеры\Kon\bin\Debug\Kon.exe.config
+C:\Users\stydent\Каменских Валерий\Контейнеры\Kon\bin\Debug\Kon.exe
+C:\Users\stydent\Каменских Валерий\Контейнеры\Kon\bin\Debug\Kon.pdb
+C:\Users\stydent\Каменских Валерий\Контейнеры\Kon\obj\Debug\Kon.csproj.AssemblyReference.cache
+C:\Users\stydent\Каменских Валерий\Контейнеры\Kon\obj\Debug\Kon.csproj.CoreCompileInputs.cache
+C:\Users\stydent\Каменских Валерий\Контейнеры\Kon\obj\Debug\Kon.exe
+C:\Users\stydent\Каменских Валерий\Контейнеры\Kon\obj\Debug\Kon.pdb
